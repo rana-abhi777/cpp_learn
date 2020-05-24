@@ -1,0 +1,11 @@
+Below are things to learn before jumping to frameworks
+
+1. JS fundamentals
+2. Modules
+3. classes
+4. arrow functions
+5. promises / asynchronus functions
+6. destructuring
+7. concept of components and state
+8. spread operator
+9. Higher order functions

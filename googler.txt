@@ -1,0 +1,18 @@
+DS important ones:
+Arrays
+Linkded lists
+Stacks
+Queues
+Sets
+Maps
+Binary Trees
+Heaps
+Graphs
+
+ALOGOs important concepts:
+Sorting, Searching and binary search
+Divide-and-conquer
+Dynamic programming and memorization
+Greedy Algorithms
+Recursion
+Graph traversal, breadth- and depth-first
