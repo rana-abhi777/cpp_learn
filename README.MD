@@ -1,1 +1,3 @@
-# Learning C++ and doing practice for data Structure and algorithms.
+# Learning C++ basic concepts
+
+Purpose: To start participating in competitive programming.
